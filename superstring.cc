@@ -1,4 +1,4 @@
-// string.cc - An extended string class based on std::string.
+// superstring.cc - An extended string class built on std::string.
 // @kwegner
 
 /*
