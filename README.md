@@ -94,11 +94,11 @@ Methods:
 
 <div>Gets the first character, or '\0'.</div>
 
-<div>char head() const</pre>
+<pre>char head() const</pre>
 
 <div>Gets the last character, or '\0'.</div>
 
-<div>char tail() const</pre>
+<pre>char tail() const</pre>
 
 <div>Returns whether this matches the regular expression.</div>
 
