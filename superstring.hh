@@ -1,4 +1,4 @@
-// string.hh - An extended string class based on std::string.
+// superstring.hh - An extended string class built on std::string.
 // @kwegner
 
 /*
@@ -26,8 +26,8 @@ SOFTWARE.
 */
 
 
-#ifndef INCLUDE_STRING_HH
-#define INCLUDE_STRING_HH 1
+#ifndef INCLUDE_SUPERSTRING_HH
+#define INCLUDE_SUPERSTRING_HH 1
 
 
 #include <string>
@@ -686,5 +686,5 @@ namespace super
 };
 
 
-#endif // INCLUDE_STRING_HH
+#endif // INCLUDE_SUPERSTRING_HH
 
